@@ -1,0 +1,27 @@
+{
+  "name": "dialogflow-util",
+  "version": "1.0.0",
+  "description": "dialogflow methods",
+  "main": "index.js",
+  "dependencies": {
+    "dialogflow": "^0.1.0",
+    "dotenv": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shradha001/dialogflow-util.git"
+  },
+  "keywords": [
+    "dialogflow"
+  ],
+  "author": "Shradha Mallik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shradha001/dialogflow-util/issues"
+  },
+  "homepage": "https://github.com/shradha001/dialogflow-util#readme"
+}
